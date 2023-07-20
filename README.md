@@ -36,3 +36,16 @@ Technologies Used:
 License:
 
 BlogSphere is released under the MIT License license. See the LICENSE.md file for details.
+
+ Screenshots:
+                                                           **The App:**
+        ![Screenshot1](https://github.com/sahill01/news-share-app/assets/52459923/b61a46d2-aecd-4f8e-82b3-138c740f293e)
+                                                    **When Clicken On Share Button:**
+        ![Screenshot2](https://github.com/sahill01/news-share-app/assets/52459923/738890d3-660d-4946-8f9e-189a13bd4aef)        
+                                                        **The Copied Text:**
+        ![Screenshot3](https://github.com/sahill01/news-share-app/assets/52459923/38752656-1d01-42ba-9a13-56293550ad22)        
+                                                **When Making a Post On Social Media:**
+        ![Screenshot4](https://github.com/sahill01/news-share-app/assets/52459923/062853fe-34b9-4f2d-bb4c-5f727ea882d4)        
+                                                            **After posted:**
+        ![Screenshot5](https://github.com/sahill01/news-share-app/assets/52459923/c8c19fb1-bef2-4709-8e86-9bac242a2f89)
+
