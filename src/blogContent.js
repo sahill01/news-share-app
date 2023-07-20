@@ -24,7 +24,10 @@ const BlogContent = () => {
 
   return (
     <div className="blog-content">
-      {newsData.map((article) => (
+      {newsData.length === 0 ? (
+        <div>Loading...</div>
+      ) : (
+      newsData.map((article) => (
         <div key={article.url} className="card">
           <h3>{article.title}</h3>
           <Share blogContent={article} />
@@ -39,7 +42,8 @@ const BlogContent = () => {
             Read More
           </a>
         </div>
-      ))}
+      ))
+      )}
     </div>
   );
 };
